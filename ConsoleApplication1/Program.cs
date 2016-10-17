@@ -7,6 +7,7 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             Cyclist cyclist = null;
+            //geht nur mit VisualStudio 2015
             cyclist?.ring();
 
             cyclist = new Cyclist();
