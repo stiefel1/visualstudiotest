@@ -1,0 +1,6 @@
+c:\users\florian\documents\visual studio 2015\Projects\VisualStudioTest\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\florian\documents\visual studio 2015\Projects\VisualStudioTest\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\florian\documents\visual studio 2015\Projects\VisualStudioTest\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\florian\documents\visual studio 2015\Projects\VisualStudioTest\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+c:\users\florian\documents\visual studio 2015\Projects\VisualStudioTest\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\florian\documents\visual studio 2015\Projects\VisualStudioTest\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
